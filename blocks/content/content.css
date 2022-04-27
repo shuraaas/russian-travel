@@ -8,8 +8,14 @@
   }
 }
 
+@media (max-width: 1279px) {
+  .content {
+    padding-top: 20px;
+  }
+}
+
 @media (max-width: 767px) {
   .content {
-    padding-bottom: 64px;
+    padding: 32px 0 64px;
   }
 }

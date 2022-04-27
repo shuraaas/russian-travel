@@ -1,16 +1,10 @@
 .intro__inner {
-  width: 690px;
-  min-height: 429px;
-}
-
-@media (min-width: 768px) and (max-width: 1023px) {
-  .intro__inner {
-    width: 100%;
-  }
+  max-width: 690px;
+  width: 100%;
 }
 
 @media (max-width: 767px) {
   .intro__inner {
-    width: 100%;
+    max-width: 720px;
   }
 }

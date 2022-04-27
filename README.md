@@ -17,6 +17,4 @@
 * Grid
 * Сайт адаптивный
 
-**Ссылка на проект**
-
-[Ссылка на проект](https://shuraaas.github.io/yet-another-project/)
+[Ссылка на проект](https://shuraaas.github.io/russian-travel/)
